@@ -1,0 +1,9 @@
+
+body {
+  background: #534337;
+}
+
+#canvas_map {
+  background: #77c483;
+  outline: 1px solid black;
+}
